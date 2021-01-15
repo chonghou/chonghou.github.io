@@ -1,4 +1,4 @@
 git config user.email "chongh66@qq.com"
 git add .
 git commit -m "update"
-git push origin master
+git push --force origin master
