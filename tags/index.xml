@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Hello World</title>
-    <link>http://chongh.top/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Hello World</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
-    <lastBuildDate>Wed, 12 Apr 2017 11:14:48 -0400</lastBuildDate><atom:link href="http://chongh.top/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 Apr 2017 11:14:48 -0400</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>scene</title>
-      <link>http://chongh.top/tags/scene/</link>
+      <link>/tags/scene/</link>
       <pubDate>Wed, 12 Apr 2017 11:14:48 -0400</pubDate>
       
-      <guid>http://chongh.top/tags/scene/</guid>
+      <guid>/tags/scene/</guid>
       <description></description>
     </item>
     

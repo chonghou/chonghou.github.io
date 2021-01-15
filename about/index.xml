@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on Hello World</title>
-    <link>http://chongh.top/about/</link>
+    <link>/about/</link>
     <description>Recent content in About on Hello World</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-Hans</language><atom:link href="http://chongh.top/about/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-Hans</language><atom:link href="/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
